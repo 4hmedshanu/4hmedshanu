@@ -209,26 +209,8 @@ Repo: https://github.com/your-github-username/sorting-visualizer
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shanuahmed03&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
 </p>
 
----
-
-## 🐍 Contribution Snake (Extra Animation – Optional)
-
-<!-- 
-  To enable this snake animation:
-  1. Go to: https://github.com/Platane/snk and follow setup for GitHub Actions.
-  2. Update `username` in the URL below.
--->
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/shanuahmed03/shanuahmed03/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" />
-</p>
 
 
-  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
 ---
 
 ## 🤝 Let’s Connect & Collaborate
