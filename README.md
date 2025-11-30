@@ -227,11 +227,4 @@ Repo: https://github.com/your-github-username/sorting-visualizer
 <p align="center">
   <b>⭐ If you like my work, consider giving my repositories a star!</b>
 </p>
-```
 
----
-
-If you want, I can next:
-
-* Turn this into a **ready ZIP repo structure** for your profile, or
-* Make a **simpler / lighter** version for mobile or slow networks.
